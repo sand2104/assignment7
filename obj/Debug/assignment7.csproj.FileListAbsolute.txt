@@ -1,0 +1,8 @@
+C:\data\assignment7\assignment7\bin\Debug\assignment7.exe.config
+C:\data\assignment7\assignment7\bin\Debug\assignment7.exe
+C:\data\assignment7\assignment7\bin\Debug\assignment7.pdb
+C:\data\assignment7\assignment7\obj\Debug\assignment7.csproj.AssemblyReference.cache
+C:\data\assignment7\assignment7\obj\Debug\assignment7.csproj.SuggestedBindingRedirects.cache
+C:\data\assignment7\assignment7\obj\Debug\assignment7.csproj.CoreCompileInputs.cache
+C:\data\assignment7\assignment7\obj\Debug\assignment7.exe
+C:\data\assignment7\assignment7\obj\Debug\assignment7.pdb
